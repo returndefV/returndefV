@@ -23,7 +23,7 @@
 </div>
 
 ### :man_technologist: About Me :
-Hi, my name is Vlad and I am Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hi, my name is Vlad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I'm a beginner Python developer.
 
 - :seedling: My training consists, of course, primarily of studying technical articles, as well as writing my own small pet projects.
