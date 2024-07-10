@@ -28,7 +28,7 @@ Hi, my name is Vlad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: My training consists, of course, primarily of studying technical articles, as well as writing my own small pet projects.
 
-- :mailbox:How to reach me: [![badge](https://img.shields.io/badge/-HH.ru-red?style=flat)](https://kazan.hh.ru/resume/13f2fec9ff0d2d63710039ed1f676b654c4752)
+- :mailbox:How to reach me: [![badge](https://img.shields.io/badge/-Telegram-blue?style=flat)](https://t.me/vladfull_dev)
 
 ---
 
