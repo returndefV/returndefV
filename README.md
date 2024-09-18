@@ -9,7 +9,7 @@
   <a href="https://career.habr.com/skynet2024">
     <img src="https://img.shields.io/badge/Habr Career-gray?style=for-the-badge" alt="..."/>
   </a>
-  <a href="https://t.me/vladfull_dev">
+  <a href="https://t.me/vpy_dev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="..."/>
   </a>
   <h1>
