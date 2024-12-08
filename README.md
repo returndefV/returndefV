@@ -26,9 +26,9 @@
 Hi, my name is Vlad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I'm a Python developer.
 
-- :seedling: I am developing various projects from simple telegram-bot to highly loaded apps. I constantly improve my skills and study new technologies.
+- :seedling: I develop various projects from simple to highly loaded applications. I constantly improve my skills and study new technologies.
 
-- :mailbox: How to reach me: [![badge](https://img.shields.io/badge/-Telegram-blue?style=flat)](https://t.me/vladfull_dev)
+- :mailbox: How to reach me: [![badge](https://img.shields.io/badge/-Telegram-blue?style=flat)](https://t.me/vpy_dev)
 
 ---
 
