@@ -12,9 +12,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-### :man_technologist: About Me :
-Hi, my name is Vlad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I'm a Python developer.
-
-- :mailbox: How to reach me: [![badge](https://img.shields.io/badge/-Telegram-blue?style=flat)](https://t.me/vpy_dev)
